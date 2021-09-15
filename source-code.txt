@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I love learning! v1.0 Psalm and chi chi v1.1 Hilton v2.1
+=======
+I love learning! v1.0 | Beyond v2.0 | Psalm and chi chi v1.1
+>>>>>>> main
